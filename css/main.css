@@ -1,0 +1,43 @@
+body{
+    background-color: gray;
+}
+
+form{
+    width: 30%;
+    background-color: #2b2b2b;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+
+h3{
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.input-elm{
+    width: 90%;
+    height: 35px;
+    border-radius: 25px;
+    padding-left: 15px;
+    margin-top: 15px;
+    border: none;
+    background-color: white;
+    color: white;
+}
+
+button{
+    background-color: green !important;
+}
+
+form p{
+    color: gray;
+    text-align: center;
+    padding-top: 50px;
+}
